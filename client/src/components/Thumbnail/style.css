@@ -1,0 +1,15 @@
+.img-thumbnail {
+  border: none;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 65%;
+  height: 190px;
+  margin-right: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  .img-thumbnail {
+    background-position: left;
+    width: 25%;
+  }
+}

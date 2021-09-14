@@ -1,0 +1,11 @@
+.searchBar {
+  background: rgb(230, 64, 188);
+  color: #000;
+  width: 97vw;
+  margin: 0 auto;
+}
+
+.searchBar .btn {
+  background: #0d6efd;
+  color: #fff;
+}
